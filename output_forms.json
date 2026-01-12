@@ -1,0 +1,13 @@
+{
+  "forms": [
+    "text",
+    "image",
+    "structure",
+    "artifact"
+  ],
+  "no_assumptions": [
+    "meaning",
+    "use",
+    "ownership"
+  ]
+}
