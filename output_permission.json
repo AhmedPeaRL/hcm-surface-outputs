@@ -1,0 +1,8 @@
+{
+  "output": {
+    "allowed": true,
+    "required": false,
+    "persistent": false
+  },
+  "principle": "Results may appear without consequence."
+}
